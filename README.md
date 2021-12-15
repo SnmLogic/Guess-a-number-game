@@ -10,4 +10,4 @@
 5. Make sure to ask the name of the user at the start
 
 #### How to download code ???
-Hey mate, just click on the green `Code v` button and then click on the download zip button or if you have git installed then you can clone this repo.
+Hey mate, just click on the green `Code v` button and then click on the download zip button or if you have git installed then you can clone this repository.
